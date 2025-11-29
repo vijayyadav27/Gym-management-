@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "your-api-key",
-    authDomain: "your-auth-domain",
-    projectId: "your-project-id",
-    storageBucket: "your-storage-bucket",
-    messagingSenderId: "your-sender-id",
-    appId: "your-app-id"
+    apiKey: "AIzaSyBg3cj0VrXBNgJkJPp-NeL2n2Ogsv5gP_4",
+    authDomain: "gym-management-58b8d.firebaseapp.com",
+    projectId: "gym-management-58b8d",
+    storageBucket: "gym-management-58b8d.firebasestorage.app",
+    messagingSenderId: "7404188760",
+    appId: "1:7404188760:web:23c619eef48f488668862d"
 };
 
 firebase.initializeApp(firebaseConfig);
