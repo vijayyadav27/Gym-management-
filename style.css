@@ -1,3 +1,4 @@
+/* styles.css */
 :root {
     --primary: #2c3e50;
     --secondary: #3498db;
@@ -32,6 +33,7 @@ body {
     padding: 0 20px;
 }
 
+/* Navigation */
 .navbar {
     background-color: var(--primary);
     color: white;
@@ -87,6 +89,7 @@ body {
     transition: 0.3s;
 }
 
+/* Hero Section */
 .hero {
     padding: 120px 0 80px;
     background: linear-gradient(135deg, var(--primary) 0%, #34495e 100%);
@@ -135,6 +138,7 @@ body {
     gap: 1rem;
 }
 
+/* Features Section */
 .features {
     padding: 80px 0;
 }
@@ -175,6 +179,7 @@ body {
     color: var(--primary);
 }
 
+/* Buttons */
 .btn {
     padding: 12px 24px;
     border: none;
@@ -207,6 +212,7 @@ body {
     color: white;
 }
 
+/* Modal */
 .modal {
     display: none;
     position: fixed;
@@ -261,6 +267,7 @@ body {
     font-size: 1rem;
 }
 
+/* Dashboard */
 .dashboard {
     padding: 100px 20px 40px;
 }
@@ -276,6 +283,7 @@ body {
     display: none;
 }
 
+/* Animations */
 @keyframes fadeIn {
     from { opacity: 0; }
     to { opacity: 1; }
@@ -286,6 +294,7 @@ body {
     to { transform: translateY(0); opacity: 1; }
 }
 
+/* Responsive Design */
 @media (max-width: 768px) {
     .hamburger {
         display: flex;
