@@ -1,11 +1,12 @@
 // script.js - Complete Firebase Implementation
 const firebaseConfig = {
-    apiKey: "AIzaSyBg3cj0VrXBNgJkJPp-NeL2n2Ogsv5gP_4",
-    authDomain: "gym-management-58b8d.firebaseapp.com",
-    projectId: "gym-management-58b8d",
-    storageBucket: "gym-management-58b8d.firebasestorage.app",
-    messagingSenderId: "7404188760",
-    appId: "1:7404188760:web:23c619eef48f488668862d"
+  apiKey: "AIzaSyCDlo9a82n8xTWzSLeDUlT8RJ44WeJe_WU",
+  authDomain: "gym-management-393fe.firebaseapp.com",
+  projectId: "gym-management-393fe",
+  storageBucket: "gym-management-393fe.firebasestorage.app",
+  messagingSenderId: "561114564586",
+  appId: "1:561114564586:web:6401c5d218110dac121493",
+  measurementId: "G-C4FWL2YEZP"
 };
 
 // Initialize Firebase
